@@ -1,0 +1,2 @@
+This programme is a parser that allows you to search for vacancies in two categories ("Аналитика Данных" and "Data Science"). All data on vacancies are taken from the hh.ru website. The parser allows you to retrieve information about these vacancies by level. 
+All vacancies as a result are divided into 4 groups according to the level of data analysis skills ("Junior", "Middle", "Senior" and "Other", where "Other" means means that all vacancies that did not fall into the previous three groups were placed in this category).
